@@ -1,1 +1,17 @@
-# Jenkins_template
+# Jenkins Template
+
+## Getting Started
+
+This template serves as a standard Jenkinsfile for continuous deployment/integration.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+1. Must install Jenkins
+
+## Running the tests
+
+1. Automated builds running on local host Jenkins
+2. User provdies their own stage scripts for the testing environment.
+
